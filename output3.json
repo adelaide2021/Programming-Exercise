@@ -1,0 +1,5778 @@
+{
+  "Rayan Valencia" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "12/30/2021",
+    "expires" : "12/30/2022"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "4/28/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "9/9/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "1/5/2023",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "11/1/2023",
+    "expires" : null
+  } ],
+  "Kamila Mckenzie" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "7/17/2023",
+    "expires" : "7/16/2024"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "2/10/2022",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "8/30/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "5/4/2022",
+    "expires" : "5/4/2023"
+  } ],
+  "Jamiya Oconnell" : [ {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "5/12/2023",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "3/31/2023",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "1/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "2/25/2023",
+    "expires" : "2/25/2024"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "1/24/2023",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "6/23/2022",
+    "expires" : "6/23/2023"
+  } ],
+  "Rhys Gay" : [ {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "4/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "9/8/2022",
+    "expires" : "9/8/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "1/26/2023",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "2/7/2023",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "1/20/2022",
+    "expires" : null
+  } ],
+  "Audrina Valencia" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "8/30/2022",
+    "expires" : "8/30/2023"
+  } ],
+  "Robert Daugherty" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "6/16/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "3/1/2022",
+    "expires" : "3/1/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "2/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "11/14/2022",
+    "expires" : null
+  } ],
+  "Jolie Diaz" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "9/25/2022",
+    "expires" : "9/25/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "6/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "9/6/2023",
+    "expires" : null
+  } ],
+  "Alannah Booth" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "10/10/2022",
+    "expires" : "10/10/2023"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "12/25/2021",
+    "expires" : "12/25/2022"
+  } ],
+  "Jerimiah Guerra" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "8/15/2023",
+    "expires" : "8/14/2024"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "4/26/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "8/10/2023",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "6/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "12/15/2021",
+    "expires" : "12/15/2022"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "4/12/2022",
+    "expires" : "4/12/2023"
+  } ],
+  "Adan Lowery" : [ {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "4/9/2023",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "3/16/2022",
+    "expires" : "3/16/2023"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "5/10/2023",
+    "expires" : "5/9/2024"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "6/9/2023",
+    "expires" : null
+  } ],
+  "Juan Stafford" : [ {
+    "name" : "Medical Records",
+    "timestamp" : "12/23/2022",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "10/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "10/11/2022",
+    "expires" : "10/11/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "3/24/2022",
+    "expires" : "3/24/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "11/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "10/20/2022",
+    "expires" : null
+  } ],
+  "Garrett Mcneil" : [ {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "4/18/2023",
+    "expires" : "4/17/2024"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "10/16/2023",
+    "expires" : "10/15/2024"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "10/27/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "8/5/2023",
+    "expires" : "8/4/2024"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "9/10/2022",
+    "expires" : "9/10/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "12/16/2021",
+    "expires" : null
+  } ],
+  "Kaila Knapp" : [ {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "9/14/2022",
+    "expires" : "9/14/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "10/25/2023",
+    "expires" : "10/24/2024"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "5/9/2023",
+    "expires" : "5/8/2024"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "9/9/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "6/14/2022",
+    "expires" : "6/14/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "12/17/2022",
+    "expires" : null
+  } ],
+  "Norah Huber" : [ {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "1/25/2022",
+    "expires" : "1/25/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "8/22/2022",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "8/26/2022",
+    "expires" : "8/26/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "5/2/2023",
+    "expires" : "5/1/2024"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "1/3/2023",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "3/22/2023",
+    "expires" : null
+  } ],
+  "Diana Munoz" : [ {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "8/6/2023",
+    "expires" : "8/5/2024"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "6/7/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "10/3/2022",
+    "expires" : "10/3/2023"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "6/13/2022",
+    "expires" : "6/13/2023"
+  } ],
+  "Kaitlynn Finley" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "8/17/2022",
+    "expires" : "8/17/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "2/19/2023",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "12/23/2021",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "6/19/2023",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "2/13/2023",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "4/10/2022",
+    "expires" : null
+  } ],
+  "Emmett Sanchez" : [ {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "6/4/2022",
+    "expires" : "6/4/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "8/21/2022",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "7/12/2022",
+    "expires" : "7/12/2023"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "3/18/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "5/28/2022",
+    "expires" : "5/28/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "6/12/2023",
+    "expires" : "6/11/2024"
+  } ],
+  "Enrique Burke" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "10/2/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "6/24/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "1/23/2022",
+    "expires" : "1/23/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "2/19/2022",
+    "expires" : null
+  } ],
+  "Charlee Acevedo" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "9/27/2022",
+    "expires" : "9/27/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "11/5/2022",
+    "expires" : "11/5/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "1/8/2022",
+    "expires" : null
+  } ],
+  "Camden Ho" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "9/26/2023",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "5/2/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "8/27/2022",
+    "expires" : "8/27/2023"
+  } ],
+  "Claire Montes" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "1/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "6/20/2023",
+    "expires" : "6/19/2024"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "12/11/2021",
+    "expires" : "12/11/2022"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "7/2/2022",
+    "expires" : null
+  } ],
+  "Reynaldo Kidd" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "6/16/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "7/26/2023",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "9/22/2022",
+    "expires" : "9/22/2023"
+  } ],
+  "Mila Baird" : [ {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "8/20/2023",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "2/4/2023",
+    "expires" : "2/4/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "9/25/2023",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "12/9/2021",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "6/16/2022",
+    "expires" : "6/16/2023"
+  } ],
+  "Arianna Esparza" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "1/13/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "10/10/2023",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "1/31/2023",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "5/2/2022",
+    "expires" : "5/2/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "2/17/2022",
+    "expires" : null
+  } ],
+  "Frida Mosley" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "7/30/2022",
+    "expires" : "7/30/2023"
+  } ],
+  "Hadassah Hampton" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "1/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "8/18/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "10/25/2023",
+    "expires" : "10/24/2024"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "3/12/2022",
+    "expires" : "3/12/2023"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "7/4/2023",
+    "expires" : null
+  } ],
+  "Maritza Ryan" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "5/11/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "5/11/2023",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "8/2/2022",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "12/12/2021",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "2/8/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "5/27/2022",
+    "expires" : "5/27/2023"
+  } ],
+  "Kristina Gay" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "10/21/2022",
+    "expires" : "10/21/2023"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "8/3/2022",
+    "expires" : "8/3/2023"
+  } ],
+  "Gerald Parsons" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "4/21/2023",
+    "expires" : "4/20/2024"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "8/28/2023",
+    "expires" : "8/27/2024"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "5/31/2023",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "3/21/2022",
+    "expires" : "3/21/2023"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "7/11/2023",
+    "expires" : "7/10/2024"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "7/1/2022",
+    "expires" : null
+  } ],
+  "Matilda Alvarado" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "9/28/2023",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "5/14/2022",
+    "expires" : "5/14/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "2/20/2023",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "3/15/2023",
+    "expires" : null
+  } ],
+  "Dayana Costa" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "11/13/2022",
+    "expires" : "11/13/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "9/13/2022",
+    "expires" : "9/13/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "11/3/2022",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "7/13/2023",
+    "expires" : null
+  } ],
+  "Urijah Travis" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "7/19/2022",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "10/10/2022",
+    "expires" : "10/10/2023"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "10/24/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "3/11/2022",
+    "expires" : "3/11/2023"
+  } ],
+  "Nyla Rose" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "2/15/2022",
+    "expires" : "2/15/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "7/17/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "1/27/2022",
+    "expires" : "1/27/2023"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "5/5/2023",
+    "expires" : null
+  } ],
+  "Damari Short" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "8/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "10/6/2022",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "8/15/2023",
+    "expires" : "8/14/2024"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "8/22/2022",
+    "expires" : "8/22/2023"
+  } ],
+  "Eden Nash" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "2/3/2022",
+    "expires" : "2/3/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "10/27/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "3/1/2023",
+    "expires" : "2/29/2024"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "7/16/2023",
+    "expires" : "7/15/2024"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "12/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "7/3/2023",
+    "expires" : null
+  } ],
+  "Ann Prince" : [ {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "3/8/2022",
+    "expires" : "3/8/2023"
+  } ],
+  "Helena Weiss" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "3/23/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "1/5/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "11/2/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "1/8/2022",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "1/22/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "8/25/2022",
+    "expires" : "8/25/2023"
+  } ],
+  "Adrienne Yates" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "5/7/2023",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "3/11/2023",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "8/8/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "4/24/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "7/7/2022",
+    "expires" : "7/7/2023"
+  } ],
+  "Elizabeth Esparza" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "6/17/2022",
+    "expires" : "6/17/2023"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "8/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "11/7/2022",
+    "expires" : "11/7/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "4/10/2022",
+    "expires" : null
+  } ],
+  "Ann Knight" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "3/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "1/12/2023",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "9/16/2022",
+    "expires" : "9/16/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "2/7/2023",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "10/13/2023",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "6/6/2022",
+    "expires" : null
+  } ],
+  "Kyla Walker" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "4/13/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "6/22/2022",
+    "expires" : "6/22/2023"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "1/15/2023",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "7/11/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "5/7/2022",
+    "expires" : null
+  } ],
+  "Giovanny Gonzales" : [ {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "10/4/2023",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "5/20/2023",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "2/20/2022",
+    "expires" : "2/20/2023"
+  } ],
+  "Gabrielle Robbins" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "12/12/2022",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "5/16/2022",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "5/28/2023",
+    "expires" : "5/27/2024"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "6/22/2022",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "1/28/2023",
+    "expires" : "1/28/2024"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "2/15/2022",
+    "expires" : "2/15/2023"
+  } ],
+  "Jazmin Reynolds" : [ {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "3/9/2022",
+    "expires" : "3/9/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "10/30/2022",
+    "expires" : "10/30/2023"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "5/2/2022",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "6/22/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "8/30/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "10/25/2023",
+    "expires" : null
+  } ],
+  "Daphne Hinton" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "8/13/2022",
+    "expires" : "8/13/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "10/2/2022",
+    "expires" : "10/2/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "10/9/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "2/17/2022",
+    "expires" : "2/17/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "1/19/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "2/8/2023",
+    "expires" : null
+  } ],
+  "Caylee Hatfield" : [ {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "1/27/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "4/17/2022",
+    "expires" : "4/17/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "2/19/2022",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "8/24/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "2/14/2022",
+    "expires" : "2/14/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "1/18/2023",
+    "expires" : null
+  } ],
+  "Kelly Munoz" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "9/18/2022",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "5/6/2022",
+    "expires" : "5/6/2023"
+  } ],
+  "Zachery Sherman" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "1/13/2022",
+    "expires" : "1/13/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "6/19/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "7/30/2023",
+    "expires" : "7/29/2024"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "10/11/2022",
+    "expires" : null
+  } ],
+  "Iris Aguilar" : [ {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "8/19/2023",
+    "expires" : "8/18/2024"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "2/19/2022",
+    "expires" : "2/19/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "1/4/2022",
+    "expires" : "1/4/2023"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "3/12/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "9/19/2023",
+    "expires" : "9/18/2024"
+  } ],
+  "Crystal Middleton" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "2/22/2022",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "5/22/2022",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "12/17/2021",
+    "expires" : "12/17/2022"
+  } ],
+  "Emily Spence" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "12/22/2021",
+    "expires" : "12/22/2022"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "6/2/2023",
+    "expires" : "6/1/2024"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "3/2/2023",
+    "expires" : "3/1/2024"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "4/2/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "5/9/2023",
+    "expires" : "5/8/2024"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "4/17/2023",
+    "expires" : null
+  } ],
+  "Maximilian Humphrey" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "1/20/2022",
+    "expires" : "1/20/2023"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "11/11/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "5/17/2023",
+    "expires" : null
+  } ],
+  "Reid Arias" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "9/3/2023",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "9/10/2022",
+    "expires" : "9/10/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "9/10/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "9/18/2022",
+    "expires" : "9/18/2023"
+  } ],
+  "Amari Oconnor" : [ {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "1/17/2023",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "11/5/2022",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "11/12/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "7/24/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "12/14/2021",
+    "expires" : "12/14/2022"
+  } ],
+  "Yael Cummings" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "6/20/2022",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "2/26/2022",
+    "expires" : "2/26/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "1/19/2023",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "10/24/2023",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "4/17/2022",
+    "expires" : "4/17/2023"
+  } ],
+  "Alonzo Delacruz" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "12/14/2021",
+    "expires" : "12/14/2022"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "7/11/2023",
+    "expires" : null
+  } ],
+  "Amira Oneal" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "3/19/2022",
+    "expires" : "3/19/2023"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "12/6/2022",
+    "expires" : null
+  } ],
+  "Penelope Whitney" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "6/19/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "2/21/2022",
+    "expires" : "2/21/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "5/2/2023",
+    "expires" : "5/1/2024"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "7/28/2023",
+    "expires" : "7/27/2024"
+  } ],
+  "Mohammed Michael" : [ {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "8/1/2023",
+    "expires" : "7/31/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "5/16/2023",
+    "expires" : "5/15/2024"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "8/11/2022",
+    "expires" : "8/11/2023"
+  } ],
+  "Lilyana Blackwell" : [ {
+    "name" : "Medical Records",
+    "timestamp" : "3/31/2023",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "2/11/2023",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "4/20/2022",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "2/7/2022",
+    "expires" : "2/7/2023"
+  } ],
+  "Brenna Kidd" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "2/19/2022",
+    "expires" : "2/19/2023"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "9/11/2023",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "6/4/2022",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "1/3/2023",
+    "expires" : "1/3/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "12/15/2022",
+    "expires" : "12/15/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "5/20/2023",
+    "expires" : null
+  } ],
+  "Dennis Dunn" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "2/21/2022",
+    "expires" : "2/21/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "1/2/2023",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "9/7/2022",
+    "expires" : "9/7/2023"
+  } ],
+  "Gemma Osborn" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "3/13/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "5/24/2022",
+    "expires" : "5/24/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "10/10/2022",
+    "expires" : "10/10/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "4/20/2023",
+    "expires" : "4/19/2024"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "4/17/2023",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "8/31/2022",
+    "expires" : "8/31/2023"
+  } ],
+  "Madeline Davila" : [ {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "3/20/2023",
+    "expires" : "3/19/2024"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "9/15/2022",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "12/10/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "12/15/2021",
+    "expires" : "12/15/2022"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "9/2/2022",
+    "expires" : "9/2/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "2/26/2023",
+    "expires" : null
+  } ],
+  "Micah Barrera" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "8/8/2022",
+    "expires" : "8/8/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "10/26/2023",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "1/8/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "7/20/2022",
+    "expires" : "7/20/2023"
+  } ],
+  "Carl Riley" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "2/2/2023",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "1/30/2022",
+    "expires" : "1/30/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "3/9/2023",
+    "expires" : "3/8/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "6/1/2023",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "6/26/2023",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "3/14/2022",
+    "expires" : null
+  } ],
+  "Emilia Gardner" : [ {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "2/11/2022",
+    "expires" : "2/11/2023"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "1/13/2022",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "2/25/2023",
+    "expires" : "2/25/2024"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "9/7/2022",
+    "expires" : "9/7/2023"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "10/29/2022",
+    "expires" : "10/29/2023"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "1/15/2022",
+    "expires" : "1/15/2023"
+  } ],
+  "Destinee Odonnell" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "8/6/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "9/23/2022",
+    "expires" : "9/23/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "5/10/2023",
+    "expires" : "5/9/2024"
+  } ],
+  "Bennett Townsend" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "7/9/2022",
+    "expires" : "7/9/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "11/22/2022",
+    "expires" : "11/22/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "12/13/2022",
+    "expires" : null
+  } ],
+  "Lia Mosley" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "1/17/2023",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "6/20/2022",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "6/9/2022",
+    "expires" : "6/9/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "12/11/2021",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "2/16/2023",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "4/11/2022",
+    "expires" : null
+  } ],
+  "Lexie Ho" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "2/5/2022",
+    "expires" : "2/5/2023"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "9/28/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "6/9/2023",
+    "expires" : "6/8/2024"
+  } ],
+  "Giselle Oneal" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "5/9/2022",
+    "expires" : "5/9/2023"
+  } ],
+  "Jonathon Bradford" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "9/14/2023",
+    "expires" : "9/13/2024"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "10/18/2022",
+    "expires" : "10/18/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "6/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "2/24/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "1/8/2022",
+    "expires" : "1/8/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "5/12/2022",
+    "expires" : null
+  } ],
+  "Miah Burnett" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "10/2/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "9/7/2022",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "9/23/2023",
+    "expires" : "9/22/2024"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "7/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "1/28/2022",
+    "expires" : "1/28/2023"
+  } ],
+  "Maggie Vincent" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "8/20/2022",
+    "expires" : "8/20/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "10/9/2022",
+    "expires" : "10/9/2023"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "6/4/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "9/27/2023",
+    "expires" : "9/26/2024"
+  } ],
+  "Anahi Golden" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "11/20/2022",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "12/13/2022",
+    "expires" : "12/13/2023"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "1/16/2023",
+    "expires" : "1/16/2024"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "2/2/2022",
+    "expires" : "2/2/2023"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "8/19/2022",
+    "expires" : null
+  } ],
+  "Paxton Marsh" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "12/23/2021",
+    "expires" : "12/23/2022"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "5/30/2022",
+    "expires" : null
+  } ],
+  "Valentina Nichols" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "11/20/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "6/7/2023",
+    "expires" : "6/6/2024"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "5/12/2023",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "6/26/2022",
+    "expires" : "6/26/2023"
+  } ],
+  "Madisyn Wiggins" : [ {
+    "name" : "Medical Records",
+    "timestamp" : "2/16/2022",
+    "expires" : "2/16/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "12/24/2021",
+    "expires" : "12/24/2022"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "2/21/2023",
+    "expires" : "2/21/2024"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "1/7/2023",
+    "expires" : "1/7/2024"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "4/5/2023",
+    "expires" : "4/4/2024"
+  } ],
+  "Denise Koch" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "1/25/2023",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "9/11/2022",
+    "expires" : "9/11/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "3/8/2022",
+    "expires" : null
+  } ],
+  "Lucy Dunn" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "9/2/2022",
+    "expires" : "9/2/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "1/4/2022",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "1/23/2022",
+    "expires" : "1/23/2023"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "7/1/2022",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "2/1/2023",
+    "expires" : "2/1/2024"
+  } ],
+  "Mark Griffith" : [ {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "10/25/2023",
+    "expires" : "10/24/2024"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "12/16/2022",
+    "expires" : "12/16/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "5/6/2022",
+    "expires" : "5/6/2023"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "1/13/2023",
+    "expires" : "1/13/2024"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "12/31/2021",
+    "expires" : null
+  } ],
+  "Reginald Rogers" : [ {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "5/13/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "9/15/2022",
+    "expires" : "9/15/2023"
+  } ],
+  "Callum Sawyer" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "9/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "1/8/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "3/23/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "3/17/2022",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "5/21/2022",
+    "expires" : "5/21/2023"
+  } ],
+  "Misael Wall" : [ {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "4/16/2023",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "6/29/2022",
+    "expires" : "6/29/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "3/30/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "2/8/2023",
+    "expires" : "2/8/2024"
+  } ],
+  "Kamron Tanner" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "4/18/2022",
+    "expires" : "4/18/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "10/30/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "10/7/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "7/6/2022",
+    "expires" : "7/6/2023"
+  } ],
+  "Kathy Quinn" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "2/16/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "2/10/2022",
+    "expires" : "2/10/2023"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "9/6/2022",
+    "expires" : "9/6/2023"
+  } ],
+  "Dania Parrish" : [ {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "8/11/2023",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "7/25/2023",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "9/23/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "11/9/2022",
+    "expires" : "11/9/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "12/9/2021",
+    "expires" : "12/9/2022"
+  } ],
+  "Randall Marsh" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "9/29/2022",
+    "expires" : "9/29/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "9/19/2023",
+    "expires" : null
+  } ],
+  "Brogan Dorsey" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "7/25/2022",
+    "expires" : "7/25/2023"
+  } ],
+  "Kailey Montgomery" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "1/2/2022",
+    "expires" : "1/2/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "8/24/2023",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "4/19/2022",
+    "expires" : "4/19/2023"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "9/15/2023",
+    "expires" : "9/14/2024"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "7/6/2022",
+    "expires" : null
+  } ],
+  "Niko Maldonado" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "3/13/2022",
+    "expires" : "3/13/2023"
+  } ],
+  "Talia Jacobson" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "4/25/2022",
+    "expires" : "4/25/2023"
+  } ],
+  "Matias Oconnell" : [ {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "7/21/2023",
+    "expires" : "7/20/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "1/9/2022",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "7/23/2023",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "5/31/2022",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "10/9/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "8/14/2022",
+    "expires" : "8/14/2023"
+  } ],
+  "Zavier Wiggins" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "6/6/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "5/25/2022",
+    "expires" : "5/25/2023"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "9/24/2023",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "7/26/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "2/17/2022",
+    "expires" : null
+  } ],
+  "Angelo Jimenez" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "1/6/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "10/6/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "8/16/2022",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "2/26/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "4/3/2023",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "5/16/2022",
+    "expires" : "5/16/2023"
+  } ],
+  "Fernanda Green" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "1/4/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "8/31/2023",
+    "expires" : "8/30/2024"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "6/27/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "7/27/2022",
+    "expires" : "7/27/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "12/2/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "4/5/2022",
+    "expires" : null
+  } ],
+  "Makenzie Pollard" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "10/4/2023",
+    "expires" : "10/3/2024"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "5/13/2022",
+    "expires" : "5/13/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "10/25/2023",
+    "expires" : null
+  } ],
+  "Wendy Bradshaw" : [ {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "11/1/2022",
+    "expires" : "11/1/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "11/13/2022",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "2/28/2022",
+    "expires" : "2/28/2023"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "6/21/2023",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "3/27/2022",
+    "expires" : null
+  } ],
+  "Lance Cowan" : [ {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "3/2/2022",
+    "expires" : "3/2/2023"
+  } ],
+  "Laylah Hines" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "8/5/2022",
+    "expires" : "8/5/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "1/17/2023",
+    "expires" : "1/17/2024"
+  } ],
+  "Holly Rosario" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "3/18/2022",
+    "expires" : "3/18/2023"
+  } ],
+  "Jean Preston" : [ {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "6/18/2022",
+    "expires" : "6/18/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "3/14/2023",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "12/1/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "4/14/2023",
+    "expires" : null
+  } ],
+  "Molly Singh" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "5/14/2022",
+    "expires" : "5/14/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "7/24/2022",
+    "expires" : null
+  } ],
+  "Adelaide Moore" : [ {
+    "name" : "Medical Records",
+    "timestamp" : "1/28/2022",
+    "expires" : "1/28/2023"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "5/29/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "7/4/2022",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "6/3/2023",
+    "expires" : "6/2/2024"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "5/12/2023",
+    "expires" : null
+  } ],
+  "Alicia Mays" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "7/25/2022",
+    "expires" : "7/25/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "1/1/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "7/30/2023",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "1/30/2023",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "1/22/2022",
+    "expires" : "1/22/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "6/10/2022",
+    "expires" : null
+  } ],
+  "Angelique Goodman" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "11/27/2022",
+    "expires" : "11/27/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "9/30/2022",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "7/3/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "4/20/2022",
+    "expires" : "4/20/2023"
+  } ],
+  "Kingston Gay" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "6/13/2022",
+    "expires" : "6/13/2023"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "8/15/2023",
+    "expires" : null
+  } ],
+  "Elijah Marks" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "8/18/2022",
+    "expires" : "8/18/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "3/5/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "2/24/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "10/3/2022",
+    "expires" : "10/3/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "5/12/2023",
+    "expires" : "5/11/2024"
+  } ],
+  "Carson Blackburn" : [ {
+    "name" : "Medical Records",
+    "timestamp" : "2/11/2022",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "8/2/2022",
+    "expires" : "8/2/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "2/9/2023",
+    "expires" : "2/9/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "7/14/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "7/27/2023",
+    "expires" : "7/26/2024"
+  } ],
+  "Chloe Vargas" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "9/23/2022",
+    "expires" : "9/23/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "2/11/2023",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "1/26/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "8/10/2023",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "2/16/2022",
+    "expires" : null
+  } ],
+  "Zechariah Dominguez" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "12/24/2021",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "3/19/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "7/1/2023",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "8/16/2022",
+    "expires" : "8/16/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "8/20/2023",
+    "expires" : null
+  } ],
+  "Dario Browning" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "2/24/2022",
+    "expires" : "2/24/2023"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "10/4/2023",
+    "expires" : null
+  } ],
+  "Misael Irwin" : [ {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "10/19/2023",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "5/8/2022",
+    "expires" : "5/8/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "6/3/2022",
+    "expires" : "6/3/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "10/28/2023",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "1/9/2023",
+    "expires" : "1/9/2024"
+  } ],
+  "Tate Morgan" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "3/23/2023",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "6/16/2022",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "9/11/2022",
+    "expires" : "9/11/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "4/29/2022",
+    "expires" : null
+  } ],
+  "Regan Holloway" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "12/19/2021",
+    "expires" : "12/19/2022"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "2/10/2022",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "7/12/2022",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "1/25/2022",
+    "expires" : "1/25/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "7/2/2022",
+    "expires" : null
+  } ],
+  "Bryan Cross" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "8/23/2022",
+    "expires" : "8/23/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "8/11/2023",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "4/21/2022",
+    "expires" : "4/21/2023"
+  } ],
+  "John Montes" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "12/16/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "9/4/2022",
+    "expires" : "9/4/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "1/30/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "3/15/2022",
+    "expires" : "3/15/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "1/15/2023",
+    "expires" : null
+  } ],
+  "Alejandro Cantrell" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "10/17/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "9/14/2022",
+    "expires" : "9/14/2023"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "3/2/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "9/7/2022",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "8/31/2022",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "12/15/2022",
+    "expires" : "12/15/2023"
+  } ],
+  "Mia Pacheco" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "7/27/2023",
+    "expires" : "7/26/2024"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "7/6/2023",
+    "expires" : "7/5/2024"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "2/7/2023",
+    "expires" : "2/7/2024"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "1/11/2022",
+    "expires" : "1/11/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "6/4/2022",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "9/13/2022",
+    "expires" : null
+  } ],
+  "Francis Sexton" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "9/12/2023",
+    "expires" : "9/11/2024"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "1/6/2023",
+    "expires" : "1/6/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "10/26/2023",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "6/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "1/22/2022",
+    "expires" : "1/22/2023"
+  } ],
+  "Samara Tran" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "6/6/2023",
+    "expires" : "6/5/2024"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "6/18/2022",
+    "expires" : "6/18/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "8/17/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "10/26/2022",
+    "expires" : "10/26/2023"
+  } ],
+  "Jasmine Graham" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "12/25/2021",
+    "expires" : "12/25/2022"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "11/8/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "4/16/2022",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "3/21/2023",
+    "expires" : null
+  } ],
+  "Immanuel Combs" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "12/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "5/6/2022",
+    "expires" : "5/6/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "2/19/2022",
+    "expires" : "2/19/2023"
+  } ],
+  "Gisselle Hooper" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "5/4/2022",
+    "expires" : "5/4/2023"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "10/9/2023",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "4/7/2022",
+    "expires" : "4/7/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "4/27/2022",
+    "expires" : "4/27/2023"
+  } ],
+  "Sara Gilmore" : [ {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "6/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "9/22/2022",
+    "expires" : "9/22/2023"
+  } ],
+  "Rolando Schmitt" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "9/22/2023",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "4/18/2022",
+    "expires" : "4/18/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "12/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "5/5/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "3/15/2022",
+    "expires" : "3/15/2023"
+  } ],
+  "Jeffery Kelly" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "11/2/2022",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "2/23/2023",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "11/2/2022",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "8/23/2022",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "4/17/2022",
+    "expires" : "4/17/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "5/22/2022",
+    "expires" : "5/22/2023"
+  } ],
+  "Kamryn Bauer" : [ {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "1/6/2022",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "7/29/2023",
+    "expires" : "7/28/2024"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "10/3/2023",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "7/1/2023",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "4/15/2022",
+    "expires" : "4/15/2023"
+  } ],
+  "Kira Ramos" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "4/30/2022",
+    "expires" : "4/30/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "5/1/2023",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "6/7/2022",
+    "expires" : "6/7/2023"
+  } ],
+  "Adriana Figueroa" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "6/12/2022",
+    "expires" : "6/12/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "2/25/2022",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "7/13/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "6/7/2022",
+    "expires" : "6/7/2023"
+  } ],
+  "Zackary Barajas" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "4/13/2022",
+    "expires" : "4/13/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "8/20/2022",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "12/15/2022",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "9/27/2023",
+    "expires" : "9/26/2024"
+  } ],
+  "Denise Allen" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "6/27/2022",
+    "expires" : "6/27/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "3/1/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "4/27/2022",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "1/29/2022",
+    "expires" : "1/29/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "7/5/2023",
+    "expires" : null
+  } ],
+  "Eileen Holder" : [ {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "4/30/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "9/18/2022",
+    "expires" : "9/18/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "3/13/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "7/29/2023",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "7/26/2023",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "7/2/2022",
+    "expires" : null
+  } ],
+  "Isla Watts" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "1/25/2022",
+    "expires" : "1/25/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "6/28/2023",
+    "expires" : "6/27/2024"
+  } ],
+  "Vicente Alvarez" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "2/24/2023",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "5/15/2022",
+    "expires" : "5/15/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "12/2/2022",
+    "expires" : null
+  } ],
+  "Lola Townsend" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "1/1/2022",
+    "expires" : "1/1/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "9/5/2023",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "2/2/2023",
+    "expires" : "2/2/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "7/9/2022",
+    "expires" : "7/9/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "7/3/2023",
+    "expires" : null
+  } ],
+  "Kyson Orozco" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "9/6/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "5/1/2022",
+    "expires" : "5/1/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "1/28/2023",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "5/25/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "5/29/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "12/16/2021",
+    "expires" : null
+  } ],
+  "Brennen Howell" : [ {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "3/1/2023",
+    "expires" : "2/29/2024"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "9/15/2023",
+    "expires" : "9/14/2024"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "9/5/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "5/6/2022",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "12/27/2021",
+    "expires" : "12/27/2022"
+  } ],
+  "Trinity Anthony" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "6/8/2022",
+    "expires" : "6/8/2023"
+  } ],
+  "Louis Burnett" : [ {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "5/31/2022",
+    "expires" : "5/31/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "7/10/2022",
+    "expires" : "7/10/2023"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "5/5/2022",
+    "expires" : "5/5/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "7/20/2023",
+    "expires" : null
+  } ],
+  "Andreas Hoover" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "12/14/2021",
+    "expires" : "12/14/2022"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "9/12/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "11/3/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "11/26/2022",
+    "expires" : null
+  } ],
+  "Marquis Forbes" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "2/5/2022",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "8/30/2023",
+    "expires" : "8/29/2024"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "12/30/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "6/19/2022",
+    "expires" : "6/19/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "6/29/2023",
+    "expires" : "6/28/2024"
+  } ],
+  "Kiersten Leon" : [ {
+    "name" : "Medical Records",
+    "timestamp" : "6/8/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "5/22/2022",
+    "expires" : "5/22/2023"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "8/2/2022",
+    "expires" : null
+  } ],
+  "Mario Wiggins" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "10/1/2023",
+    "expires" : "9/30/2024"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "8/6/2023",
+    "expires" : "8/5/2024"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "8/11/2023",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "1/9/2022",
+    "expires" : "1/9/2023"
+  } ],
+  "Belinda Fowler" : [ {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "2/27/2023",
+    "expires" : "2/27/2024"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "9/25/2022",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "3/11/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "12/20/2021",
+    "expires" : "12/20/2022"
+  } ],
+  "Larry Rowe" : [ {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "3/27/2022",
+    "expires" : "3/27/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "12/18/2021",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "2/1/2022",
+    "expires" : null
+  } ],
+  "Conner Warner" : [ {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "3/11/2022",
+    "expires" : "3/11/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "5/8/2022",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "8/13/2023",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "8/5/2023",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "1/11/2022",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "7/17/2023",
+    "expires" : null
+  } ],
+  "Gina Sexton" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "2/13/2023",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "5/12/2023",
+    "expires" : "5/11/2024"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "9/1/2022",
+    "expires" : "9/1/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "9/14/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "6/9/2022",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "1/7/2022",
+    "expires" : "1/7/2023"
+  } ],
+  "Davion Pena" : [ {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "1/31/2022",
+    "expires" : "1/31/2023"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "11/26/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "10/24/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "2/23/2022",
+    "expires" : "2/23/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "9/26/2023",
+    "expires" : "9/25/2024"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "11/29/2022",
+    "expires" : null
+  } ],
+  "Liberty Miles" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "5/27/2022",
+    "expires" : "5/27/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "12/6/2022",
+    "expires" : "12/6/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "7/8/2022",
+    "expires" : "7/8/2023"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "3/22/2023",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "7/6/2023",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "4/21/2022",
+    "expires" : "4/21/2023"
+  } ],
+  "Darian Bean" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "7/24/2022",
+    "expires" : "7/24/2023"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "7/29/2023",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "5/29/2023",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "11/3/2022",
+    "expires" : "11/3/2023"
+  } ],
+  "Nathanial Leonard" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "4/18/2023",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "2/6/2022",
+    "expires" : "2/6/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "4/17/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "6/3/2023",
+    "expires" : null
+  } ],
+  "Aditya Alvarez" : [ {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "4/19/2022",
+    "expires" : "4/19/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "12/28/2021",
+    "expires" : null
+  } ],
+  "Eve Sullivan" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "9/1/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "1/22/2022",
+    "expires" : "1/22/2023"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "6/1/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "2/17/2022",
+    "expires" : "2/17/2023"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "1/19/2023",
+    "expires" : null
+  } ],
+  "Jadon Harrell" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "6/10/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "8/22/2023",
+    "expires" : "8/21/2024"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "3/14/2022",
+    "expires" : "3/14/2023"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "11/3/2022",
+    "expires" : "11/3/2023"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "2/5/2022",
+    "expires" : null
+  } ],
+  "Damon Jimenez" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "2/24/2023",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "10/11/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "4/20/2022",
+    "expires" : "4/20/2023"
+  } ],
+  "Kennedi Wolf" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "3/9/2022",
+    "expires" : "3/9/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "9/11/2022",
+    "expires" : "9/11/2023"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "9/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "4/12/2022",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "5/29/2022",
+    "expires" : "5/29/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "2/8/2022",
+    "expires" : "2/8/2023"
+  } ],
+  "Mackenzie Parrish" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "1/10/2023",
+    "expires" : "1/10/2024"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "1/17/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "2/15/2022",
+    "expires" : "2/15/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "9/29/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "3/28/2023",
+    "expires" : null
+  } ],
+  "Dahlia Werner" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "2/3/2022",
+    "expires" : "2/3/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "5/12/2023",
+    "expires" : null
+  } ],
+  "Cassidy Rowe" : [ {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "5/30/2023",
+    "expires" : "5/29/2024"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "8/8/2022",
+    "expires" : "8/8/2023"
+  } ],
+  "Freddy Bullock" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "9/22/2022",
+    "expires" : "9/22/2023"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "6/9/2023",
+    "expires" : null
+  } ],
+  "Leticia Johnson" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "6/1/2022",
+    "expires" : "6/1/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "2/14/2022",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "1/27/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "7/17/2023",
+    "expires" : null
+  } ],
+  "Wayne Howell" : [ {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "4/18/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "6/10/2022",
+    "expires" : "6/10/2023"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "12/13/2021",
+    "expires" : "12/13/2022"
+  } ],
+  "Max Andrade" : [ {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "4/19/2022",
+    "expires" : "4/19/2023"
+  } ],
+  "Hillary Tyler" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "11/22/2022",
+    "expires" : "11/22/2023"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "5/11/2022",
+    "expires" : "5/11/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "4/18/2023",
+    "expires" : "4/17/2024"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "8/23/2022",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "3/2/2023",
+    "expires" : "3/1/2024"
+  } ],
+  "Anastasia Mcknight" : [ {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "11/29/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "3/2/2023",
+    "expires" : "3/1/2024"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "4/5/2022",
+    "expires" : "4/5/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "2/22/2023",
+    "expires" : "2/22/2024"
+  } ],
+  "Lucille Stout" : [ {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "6/13/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "7/22/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "12/26/2021",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "4/8/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "12/5/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "12/25/2021",
+    "expires" : "12/25/2022"
+  } ],
+  "Nyasia Wilcox" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "11/5/2022",
+    "expires" : "11/5/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "2/9/2022",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "4/17/2022",
+    "expires" : "4/17/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "8/3/2023",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "4/16/2023",
+    "expires" : null
+  } ],
+  "Tiara Waters" : [ {
+    "name" : "Medical Records",
+    "timestamp" : "10/1/2022",
+    "expires" : "10/1/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "6/29/2022",
+    "expires" : "6/29/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "3/31/2023",
+    "expires" : null
+  } ],
+  "Ethen Mathews" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "9/19/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "5/15/2022",
+    "expires" : "5/15/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "7/20/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "9/22/2022",
+    "expires" : null
+  } ],
+  "Barbara Mclaughlin" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "8/5/2023",
+    "expires" : "8/4/2024"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "2/18/2022",
+    "expires" : "2/18/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "1/18/2023",
+    "expires" : "1/18/2024"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "5/31/2023",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "6/30/2023",
+    "expires" : null
+  } ],
+  "Aiyana Stone" : [ {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "9/8/2023",
+    "expires" : "9/7/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "7/25/2022",
+    "expires" : "7/25/2023"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "5/30/2022",
+    "expires" : null
+  } ],
+  "Harmony Lester" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "12/5/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "1/6/2022",
+    "expires" : "1/6/2023"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "4/27/2022",
+    "expires" : "4/27/2023"
+  } ],
+  "Martha Robinson" : [ {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "2/5/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "5/1/2022",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "8/29/2023",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "2/9/2022",
+    "expires" : "2/9/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "9/15/2023",
+    "expires" : null
+  } ],
+  "Colby Trevino" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "8/2/2022",
+    "expires" : "8/2/2023"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "10/19/2022",
+    "expires" : "10/19/2023"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "5/1/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "12/23/2021",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "4/17/2023",
+    "expires" : null
+  } ],
+  "Jessica Mcdaniel" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "8/3/2022",
+    "expires" : "8/3/2023"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "6/30/2023",
+    "expires" : null
+  } ],
+  "Makaila Hood" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "8/27/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "1/30/2022",
+    "expires" : "1/30/2023"
+  } ],
+  "Jessie Odom" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "4/7/2023",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "9/21/2022",
+    "expires" : "9/21/2023"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "6/5/2022",
+    "expires" : "6/5/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "4/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "1/2/2023",
+    "expires" : null
+  } ],
+  "Mara Roy" : [ {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "12/24/2021",
+    "expires" : "12/24/2022"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "3/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "12/23/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "10/17/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "10/14/2022",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "12/19/2022",
+    "expires" : null
+  } ],
+  "Rory Leonard" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "1/6/2022",
+    "expires" : "1/6/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "4/8/2022",
+    "expires" : "4/8/2023"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "3/13/2022",
+    "expires" : "3/13/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "7/17/2022",
+    "expires" : null
+  } ],
+  "Adison Brewer" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "4/21/2022",
+    "expires" : "4/21/2023"
+  } ],
+  "Jake Gillespie" : [ {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "5/27/2023",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "3/13/2023",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "9/1/2022",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "9/2/2022",
+    "expires" : "9/2/2023"
+  } ],
+  "Brodie Foster" : [ {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "12/14/2021",
+    "expires" : "12/14/2022"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "3/27/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "4/7/2023",
+    "expires" : "4/6/2024"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "9/15/2022",
+    "expires" : "9/15/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "12/24/2022",
+    "expires" : "12/24/2023"
+  } ],
+  "Sonia Bowman" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "5/20/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "4/26/2022",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "1/18/2022",
+    "expires" : "1/18/2023"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "7/3/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "6/7/2022",
+    "expires" : null
+  } ],
+  "Jon Chapman" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "1/12/2022",
+    "expires" : "1/12/2023"
+  } ],
+  "Liliana Sanders" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "12/17/2022",
+    "expires" : "12/17/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "3/19/2022",
+    "expires" : "3/19/2023"
+  } ],
+  "Rubi Klein" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "3/24/2022",
+    "expires" : "3/24/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "1/4/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "9/16/2022",
+    "expires" : "9/16/2023"
+  } ],
+  "Leland Nguyen" : [ {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "1/20/2023",
+    "expires" : "1/20/2024"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "4/28/2022",
+    "expires" : "4/28/2023"
+  } ],
+  "Jensen Brandt" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "9/21/2022",
+    "expires" : "9/21/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "12/19/2022",
+    "expires" : "12/19/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "3/15/2022",
+    "expires" : null
+  } ],
+  "Chaya Reynolds" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "8/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "1/5/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "2/2/2022",
+    "expires" : "2/2/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "10/4/2022",
+    "expires" : "10/4/2023"
+  } ],
+  "Rene Gardner" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "9/26/2023",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "3/25/2023",
+    "expires" : "3/24/2024"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "6/13/2022",
+    "expires" : "6/13/2023"
+  } ],
+  "Frances Fields" : [ {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "3/30/2023",
+    "expires" : "3/29/2024"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "2/10/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "11/11/2022",
+    "expires" : "11/11/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "7/13/2022",
+    "expires" : "7/13/2023"
+  } ],
+  "Albert Rogers" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "7/3/2023",
+    "expires" : "7/2/2024"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "2/13/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "11/28/2022",
+    "expires" : "11/28/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "5/18/2022",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "2/6/2022",
+    "expires" : "2/6/2023"
+  } ],
+  "Zavier Maldonado" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "10/11/2023",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "9/2/2023",
+    "expires" : "9/1/2024"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "8/9/2022",
+    "expires" : "8/9/2023"
+  } ],
+  "Jamison Lawson" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "7/9/2023",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "8/28/2023",
+    "expires" : "8/27/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "10/18/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "3/17/2022",
+    "expires" : "3/17/2023"
+  } ],
+  "Mercedes Page" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "3/27/2022",
+    "expires" : "3/27/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "8/31/2022",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "5/22/2022",
+    "expires" : null
+  } ],
+  "Kaitlyn Orozco" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "1/8/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "4/18/2022",
+    "expires" : "4/18/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "7/14/2023",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "1/12/2022",
+    "expires" : "1/12/2023"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "8/26/2023",
+    "expires" : "8/25/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "6/25/2023",
+    "expires" : null
+  } ],
+  "Dalia King" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "4/20/2023",
+    "expires" : "4/19/2024"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "2/28/2022",
+    "expires" : "2/28/2023"
+  } ],
+  "Kyler Cardenas" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "11/13/2022",
+    "expires" : "11/13/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "5/16/2022",
+    "expires" : "5/16/2023"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "9/3/2022",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "7/16/2023",
+    "expires" : null
+  } ],
+  "Zion Werner" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "11/22/2022",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "1/21/2022",
+    "expires" : "1/21/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "6/2/2022",
+    "expires" : "6/2/2023"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "7/19/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "12/11/2021",
+    "expires" : "12/11/2022"
+  } ],
+  "Denisse Velazquez" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "8/20/2022",
+    "expires" : "8/20/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "1/28/2023",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "9/1/2023",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "2/6/2023",
+    "expires" : "2/6/2024"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "2/18/2022",
+    "expires" : null
+  } ],
+  "Jadon Villarreal" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "5/28/2022",
+    "expires" : "5/28/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "3/6/2023",
+    "expires" : "3/5/2024"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "8/19/2022",
+    "expires" : "8/19/2023"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "1/25/2023",
+    "expires" : "1/25/2024"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "5/14/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "1/29/2022",
+    "expires" : null
+  } ],
+  "Lucy Duarte" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "6/22/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "5/24/2022",
+    "expires" : "5/24/2023"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "12/14/2022",
+    "expires" : "12/14/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "1/24/2023",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "2/10/2023",
+    "expires" : null
+  } ],
+  "Lance Mcfarland" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "2/7/2023",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "12/30/2021",
+    "expires" : "12/30/2022"
+  } ],
+  "Melissa Flores" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "3/19/2023",
+    "expires" : "3/18/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "4/20/2022",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "5/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "10/27/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "2/21/2022",
+    "expires" : "2/21/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "7/19/2022",
+    "expires" : null
+  } ],
+  "Kate Berry" : [ {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "4/20/2022",
+    "expires" : "4/20/2023"
+  } ],
+  "Julissa Bradford" : [ {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "12/22/2021",
+    "expires" : "12/22/2022"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "2/10/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "8/15/2023",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "5/13/2022",
+    "expires" : "5/13/2023"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "10/20/2022",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "1/19/2023",
+    "expires" : null
+  } ],
+  "Tristian Myers" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "10/22/2023",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "4/17/2022",
+    "expires" : "4/17/2023"
+  } ],
+  "Cooper Roberson" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "2/3/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "8/1/2023",
+    "expires" : "7/31/2024"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "10/6/2023",
+    "expires" : "10/5/2024"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "3/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "2/3/2022",
+    "expires" : "2/3/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "12/22/2022",
+    "expires" : "12/22/2023"
+  } ],
+  "Adalynn Dunlap" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "12/22/2021",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "12/3/2022",
+    "expires" : "12/3/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "2/13/2022",
+    "expires" : "2/13/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "12/15/2022",
+    "expires" : "12/15/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "5/20/2023",
+    "expires" : "5/19/2024"
+  } ],
+  "Lukas Riggs" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "6/7/2022",
+    "expires" : "6/7/2023"
+  } ],
+  "Linda Romero" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "1/10/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "5/3/2023",
+    "expires" : "5/2/2024"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "3/14/2022",
+    "expires" : "3/14/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "2/11/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "11/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "10/11/2023",
+    "expires" : null
+  } ],
+  "Micheal Cannon" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "12/14/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "12/23/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "11/17/2022",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "3/7/2023",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "1/27/2022",
+    "expires" : "1/27/2023"
+  } ],
+  "Damaris Hess" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "12/28/2021",
+    "expires" : "12/28/2022"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "3/27/2023",
+    "expires" : null
+  } ],
+  "Clarence Moran" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "8/17/2023",
+    "expires" : "8/16/2024"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "1/10/2022",
+    "expires" : "1/10/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "12/5/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "7/13/2022",
+    "expires" : "7/13/2023"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "7/28/2022",
+    "expires" : null
+  } ],
+  "Lexie Mckinney" : [ {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "8/22/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "9/3/2023",
+    "expires" : "9/2/2024"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "4/24/2022",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "1/20/2022",
+    "expires" : "1/20/2023"
+  } ],
+  "Cameron Moody" : [ {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "9/20/2022",
+    "expires" : "9/20/2023"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "10/7/2022",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "5/28/2022",
+    "expires" : "5/28/2023"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "10/7/2023",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "7/4/2023",
+    "expires" : "7/3/2024"
+  } ],
+  "Jadiel Ball" : [ {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "5/20/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "8/28/2022",
+    "expires" : "8/28/2023"
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "7/10/2022",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "10/31/2023",
+    "expires" : "10/30/2024"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "10/14/2023",
+    "expires" : "10/13/2024"
+  } ],
+  "Eleanor Cooley" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "5/1/2022",
+    "expires" : "5/1/2023"
+  } ],
+  "Aliya Chan" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "2/13/2022",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "2/16/2022",
+    "expires" : "2/16/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "1/18/2023",
+    "expires" : null
+  } ],
+  "Dawson Compton" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "5/3/2022",
+    "expires" : "5/3/2023"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "1/3/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "7/9/2023",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "3/12/2023",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "8/24/2023",
+    "expires" : "8/23/2024"
+  } ],
+  "Teagan Nielsen" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "2/22/2022",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "8/13/2022",
+    "expires" : "8/13/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "10/7/2022",
+    "expires" : null
+  } ],
+  "Jaylynn Harmon" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "6/3/2022",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "3/8/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "4/11/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "4/6/2022",
+    "expires" : "4/6/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "9/3/2023",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "8/20/2022",
+    "expires" : null
+  } ],
+  "Sophie Rasmussen" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "1/2/2022",
+    "expires" : "1/2/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "11/5/2022",
+    "expires" : "11/5/2023"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "10/17/2023",
+    "expires" : "10/16/2024"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "10/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "5/11/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "8/21/2023",
+    "expires" : "8/20/2024"
+  } ],
+  "Emmalee Collins" : [ {
+    "name" : "Medical Records",
+    "timestamp" : "3/10/2022",
+    "expires" : "3/10/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "8/22/2023",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "1/3/2023",
+    "expires" : "1/3/2024"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "10/21/2023",
+    "expires" : null
+  } ],
+  "Adan Salazar" : [ {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "12/30/2022",
+    "expires" : "12/30/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "11/20/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "11/6/2023",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "8/5/2023",
+    "expires" : "8/4/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "5/27/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "1/23/2022",
+    "expires" : "1/23/2023"
+  } ],
+  "Dayanara Reynolds" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "8/6/2023",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "2/6/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "12/26/2022",
+    "expires" : "12/26/2023"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "10/17/2023",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "3/17/2023",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "8/26/2022",
+    "expires" : "8/26/2023"
+  } ],
+  "Roman Moyer" : [ {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "5/7/2022",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "8/8/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "3/29/2023",
+    "expires" : "3/28/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "3/30/2022",
+    "expires" : "3/30/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "3/26/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "9/9/2022",
+    "expires" : "9/9/2023"
+  } ],
+  "Melanie Bennett" : [ {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "7/8/2023",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "9/2/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "7/2/2022",
+    "expires" : "7/2/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "9/1/2022",
+    "expires" : null
+  } ],
+  "Noe Boyle" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "7/9/2022",
+    "expires" : "7/9/2023"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "6/12/2023",
+    "expires" : null
+  } ],
+  "Nayeli Ortiz" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "9/12/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "8/19/2023",
+    "expires" : "8/18/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "2/15/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "2/25/2022",
+    "expires" : "2/25/2023"
+  } ],
+  "Janiyah Norris" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "5/10/2022",
+    "expires" : "5/10/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "3/29/2023",
+    "expires" : "3/28/2024"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "5/30/2023",
+    "expires" : null
+  } ],
+  "Muhammad Kaufman" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "9/1/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "3/20/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "9/1/2022",
+    "expires" : "9/1/2023"
+  } ],
+  "Darien Oconnor" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "4/5/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "10/17/2022",
+    "expires" : "10/17/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "7/9/2022",
+    "expires" : "7/9/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "9/5/2023",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "8/5/2023",
+    "expires" : null
+  } ],
+  "Lilliana Olsen" : [ {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "6/10/2022",
+    "expires" : "6/10/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "2/12/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "10/6/2022",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "8/27/2023",
+    "expires" : "8/26/2024"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "12/9/2021",
+    "expires" : null
+  } ],
+  "Brynlee Walker" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "4/30/2022",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "8/9/2023",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "2/19/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "1/2/2022",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "9/9/2022",
+    "expires" : "9/9/2023"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "5/23/2022",
+    "expires" : null
+  } ],
+  "Angelo Rivers" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "1/31/2022",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "6/15/2022",
+    "expires" : "6/15/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "12/20/2022",
+    "expires" : null
+  } ],
+  "Erin Swanson" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "12/30/2021",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "10/15/2023",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "10/31/2023",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "1/27/2022",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "9/17/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "12/8/2021",
+    "expires" : "12/8/2022"
+  } ],
+  "Salvatore Mckay" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "2/6/2022",
+    "expires" : "2/6/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "1/24/2023",
+    "expires" : "1/24/2024"
+  } ],
+  "Livia Hayes" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "4/14/2023",
+    "expires" : "4/13/2024"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "2/5/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "7/17/2022",
+    "expires" : "7/17/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "11/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "11/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "12/21/2021",
+    "expires" : "12/21/2022"
+  } ],
+  "Janiyah Vaughan" : [ {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "7/5/2023",
+    "expires" : "7/4/2024"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "4/7/2022",
+    "expires" : "4/7/2023"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "12/22/2021",
+    "expires" : "12/22/2022"
+  } ],
+  "Damon Gaines" : [ {
+    "name" : "Medical Records",
+    "timestamp" : "2/20/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "7/3/2022",
+    "expires" : "7/3/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "9/17/2022",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "2/10/2022",
+    "expires" : "2/10/2023"
+  } ],
+  "Mara Holland" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "4/6/2023",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "4/4/2022",
+    "expires" : "4/4/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "12/14/2021",
+    "expires" : "12/14/2022"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "10/27/2022",
+    "expires" : null
+  } ],
+  "Bridget Bray" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "5/27/2022",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "6/18/2022",
+    "expires" : "6/18/2023"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "3/3/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "7/19/2023",
+    "expires" : "7/18/2024"
+  } ],
+  "Julien Terrell" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "2/18/2022",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "3/30/2022",
+    "expires" : "3/30/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "2/23/2022",
+    "expires" : "2/23/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "6/14/2022",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "9/27/2022",
+    "expires" : null
+  } ],
+  "Misael Sawyer" : [ {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "3/8/2023",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "1/20/2022",
+    "expires" : "1/20/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "4/20/2022",
+    "expires" : "4/20/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "5/28/2023",
+    "expires" : null
+  } ],
+  "Kenyon Estes" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "9/6/2022",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "8/2/2023",
+    "expires" : "8/1/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "8/16/2022",
+    "expires" : "8/16/2023"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "3/5/2022",
+    "expires" : null
+  } ],
+  "Milagros Montes" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "8/21/2022",
+    "expires" : "8/21/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "2/19/2022",
+    "expires" : "2/19/2023"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "4/16/2023",
+    "expires" : "4/15/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "4/8/2023",
+    "expires" : null
+  } ],
+  "Finley Thornton" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "4/12/2022",
+    "expires" : "4/12/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "12/1/2022",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "5/27/2023",
+    "expires" : "5/26/2024"
+  } ],
+  "Britney Hopkins" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "11/3/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "4/14/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "7/20/2022",
+    "expires" : "7/20/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "2/11/2022",
+    "expires" : null
+  } ],
+  "Tiana Barron" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "8/18/2023",
+    "expires" : "8/17/2024"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "4/4/2022",
+    "expires" : "4/4/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "3/12/2022",
+    "expires" : "3/12/2023"
+  } ],
+  "Lorenzo Delacruz" : [ {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "12/18/2021",
+    "expires" : "12/18/2022"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "2/11/2023",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "3/6/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "6/12/2023",
+    "expires" : "6/11/2024"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "4/16/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "12/29/2021",
+    "expires" : null
+  } ],
+  "Chloe Wall" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "7/12/2022",
+    "expires" : "7/12/2023"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "7/11/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "9/26/2023",
+    "expires" : null
+  } ],
+  "Juliette Mcconnell" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "11/2/2022",
+    "expires" : "11/2/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "12/24/2021",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "5/21/2022",
+    "expires" : "5/21/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "6/18/2023",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "8/28/2023",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "3/14/2023",
+    "expires" : "3/13/2024"
+  } ],
+  "Rayan Curry" : [ {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "1/7/2022",
+    "expires" : "1/7/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "9/30/2023",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "5/10/2023",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "2/2/2023",
+    "expires" : "2/2/2024"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "4/10/2023",
+    "expires" : "4/9/2024"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "3/3/2022",
+    "expires" : null
+  } ],
+  "Oswaldo Gould" : [ {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "5/25/2022",
+    "expires" : "5/25/2023"
+  } ],
+  "Justice Quinn" : [ {
+    "name" : "Medical Records",
+    "timestamp" : "3/14/2022",
+    "expires" : "3/14/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "9/2/2022",
+    "expires" : null
+  } ],
+  "Braylon Trevino" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "2/15/2022",
+    "expires" : "2/15/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "5/14/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "2/25/2023",
+    "expires" : "2/25/2024"
+  } ],
+  "Molly James" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "1/17/2023",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "8/28/2023",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "1/8/2022",
+    "expires" : "1/8/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "2/23/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "7/27/2022",
+    "expires" : null
+  } ],
+  "Shane Landry" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "1/13/2023",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "4/28/2022",
+    "expires" : "4/28/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "2/19/2023",
+    "expires" : "2/19/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "4/20/2023",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "3/29/2022",
+    "expires" : null
+  } ],
+  "Nikhil Henderson" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "3/16/2023",
+    "expires" : "3/15/2024"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "3/18/2023",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "3/7/2023",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "10/1/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "6/15/2022",
+    "expires" : "6/15/2023"
+  } ],
+  "Frankie Dennis" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "7/28/2022",
+    "expires" : "7/28/2023"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "6/18/2023",
+    "expires" : "6/17/2024"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "8/13/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "7/4/2023",
+    "expires" : null
+  } ],
+  "Clay Estrada" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "5/18/2023",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "1/16/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "3/18/2022",
+    "expires" : "3/18/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "10/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "2/9/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "6/16/2022",
+    "expires" : "6/16/2023"
+  } ],
+  "Jazmine Alvarado" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "4/7/2022",
+    "expires" : "4/7/2023"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "5/28/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "10/21/2023",
+    "expires" : "10/20/2024"
+  } ],
+  "Marlon Baker" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "2/3/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "1/21/2022",
+    "expires" : "1/21/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "7/13/2022",
+    "expires" : "7/13/2023"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "2/13/2023",
+    "expires" : "2/13/2024"
+  } ],
+  "Walker Wall" : [ {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "2/7/2023",
+    "expires" : "2/7/2024"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "4/28/2022",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "6/9/2022",
+    "expires" : "6/9/2023"
+  } ],
+  "Marie Boone" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "11/1/2023",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "12/4/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "1/17/2023",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "2/22/2022",
+    "expires" : "2/22/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "9/5/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "8/21/2022",
+    "expires" : null
+  } ],
+  "Elvis Hester" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "5/14/2022",
+    "expires" : "5/14/2023"
+  } ],
+  "Yael Strickland" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "7/10/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "7/4/2022",
+    "expires" : "7/4/2023"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "12/7/2022",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "5/2/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "4/28/2023",
+    "expires" : null
+  } ],
+  "Devon Bush" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "1/1/2022",
+    "expires" : "1/1/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "10/11/2023",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "5/30/2023",
+    "expires" : "5/29/2024"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "4/11/2023",
+    "expires" : "4/10/2024"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "5/20/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "1/24/2022",
+    "expires" : null
+  } ],
+  "Vance Stout" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "4/16/2023",
+    "expires" : "4/15/2024"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "7/10/2022",
+    "expires" : "7/10/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "6/29/2023",
+    "expires" : "6/28/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "1/1/2022",
+    "expires" : "1/1/2023"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "10/26/2023",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "5/30/2023",
+    "expires" : "5/29/2024"
+  } ],
+  "Annika Snyder" : [ {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "1/8/2022",
+    "expires" : "1/8/2023"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "11/3/2023",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "5/26/2023",
+    "expires" : "5/25/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "2/22/2022",
+    "expires" : null
+  } ],
+  "Cailyn Morrow" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "1/5/2022",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "12/27/2021",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "8/20/2022",
+    "expires" : "8/20/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "3/22/2022",
+    "expires" : null
+  } ],
+  "Travis Bowers" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "6/5/2023",
+    "expires" : "6/4/2024"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "11/26/2022",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "5/7/2022",
+    "expires" : "5/7/2023"
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "1/11/2023",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "4/19/2023",
+    "expires" : null
+  } ],
+  "Harley Cantrell" : [ {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "10/29/2022",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "2/16/2023",
+    "expires" : "2/16/2024"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "2/25/2022",
+    "expires" : "2/25/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "3/6/2023",
+    "expires" : "3/5/2024"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "5/23/2022",
+    "expires" : null
+  } ],
+  "Jakobe Porter" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "2/25/2022",
+    "expires" : "2/25/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "3/10/2022",
+    "expires" : "3/10/2023"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "1/9/2022",
+    "expires" : "1/9/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "5/31/2022",
+    "expires" : "5/31/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "1/24/2023",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "3/26/2023",
+    "expires" : null
+  } ],
+  "Deacon Hanson" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "8/16/2022",
+    "expires" : "8/16/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "6/17/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "2/21/2023",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "1/15/2023",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "7/28/2023",
+    "expires" : "7/27/2024"
+  } ],
+  "Toby Sullivan" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "2/22/2022",
+    "expires" : "2/22/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "4/15/2023",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "2/7/2023",
+    "expires" : "2/7/2024"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "3/16/2022",
+    "expires" : null
+  } ],
+  "August Archer" : [ {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "3/11/2023",
+    "expires" : "3/10/2024"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "11/17/2022",
+    "expires" : "11/17/2023"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "7/9/2022",
+    "expires" : "7/9/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "3/10/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "11/1/2023",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "5/23/2023",
+    "expires" : null
+  } ],
+  "Trent Bernard" : [ {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "2/19/2022",
+    "expires" : "2/19/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "6/13/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "4/10/2023",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "2/2/2023",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "1/2/2023",
+    "expires" : null
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "12/26/2022",
+    "expires" : null
+  } ],
+  "Haley Malone" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "3/8/2022",
+    "expires" : "3/8/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "10/9/2022",
+    "expires" : "10/9/2023"
+  } ],
+  "Alma Parks" : [ {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "2/27/2023",
+    "expires" : "2/27/2024"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "6/7/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "3/17/2022",
+    "expires" : "3/17/2023"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "5/17/2023",
+    "expires" : null
+  } ],
+  "Saige Mcdonald" : [ {
+    "name" : "X-Ray Safety",
+    "timestamp" : "4/10/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "2/2/2022",
+    "expires" : "2/2/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "12/31/2022",
+    "expires" : "12/31/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "12/28/2021",
+    "expires" : null
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "11/25/2022",
+    "expires" : null
+  } ],
+  "Ari Jimenez" : [ {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "5/18/2022",
+    "expires" : "5/18/2023"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "10/20/2022",
+    "expires" : null
+  } ],
+  "Alberto Everett" : [ {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "7/15/2023",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "6/29/2023",
+    "expires" : "6/28/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "2/19/2023",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "9/3/2022",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "9/12/2022",
+    "expires" : "9/12/2023"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "11/14/2022",
+    "expires" : "11/14/2023"
+  } ],
+  "Thaddeus Koch" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "5/25/2022",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "8/21/2023",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "5/28/2023",
+    "expires" : "5/27/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "7/13/2022",
+    "expires" : "7/13/2023"
+  } ],
+  "Alina Barry" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "12/28/2021",
+    "expires" : "12/28/2022"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "8/6/2022",
+    "expires" : "8/6/2023"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "3/16/2022",
+    "expires" : null
+  } ],
+  "Santos Haas" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "1/24/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "5/28/2022",
+    "expires" : "5/28/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "12/19/2022",
+    "expires" : "12/19/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "8/24/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "12/16/2022",
+    "expires" : "12/16/2023"
+  } ],
+  "Marisol Cooper" : [ {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "12/15/2022",
+    "expires" : "12/15/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "5/10/2022",
+    "expires" : "5/10/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "5/23/2022",
+    "expires" : "5/23/2023"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "4/1/2022",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "8/6/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "4/13/2022",
+    "expires" : "4/13/2023"
+  } ],
+  "Mina Hatfield" : [ {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "1/19/2023",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "1/28/2022",
+    "expires" : "1/28/2023"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "11/27/2022",
+    "expires" : null
+  } ],
+  "Raquel Dunn" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "9/15/2022",
+    "expires" : "9/15/2023"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "2/26/2023",
+    "expires" : null
+  } ],
+  "Rolando Shelton" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "10/7/2022",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "7/25/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "3/6/2022",
+    "expires" : "3/6/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "1/19/2023",
+    "expires" : "1/19/2024"
+  } ],
+  "Rolando Franco" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "5/9/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "8/26/2022",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "7/18/2022",
+    "expires" : "7/18/2023"
+  } ],
+  "Marshall Hutchinson" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "7/8/2022",
+    "expires" : "7/8/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "12/8/2022",
+    "expires" : "12/8/2023"
+  }, {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "8/23/2023",
+    "expires" : "8/22/2024"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "6/28/2023",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "6/6/2022",
+    "expires" : null
+  } ],
+  "Leandro Krause" : [ {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "11/2/2023",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "6/20/2023",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "6/30/2022",
+    "expires" : "6/30/2023"
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "3/10/2023",
+    "expires" : null
+  } ],
+  "Nadia Dominguez" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "5/20/2022",
+    "expires" : "5/20/2023"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "10/16/2023",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "7/26/2022",
+    "expires" : "7/26/2023"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "12/13/2021",
+    "expires" : null
+  } ],
+  "Martin Dean" : [ {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "4/5/2023",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "4/16/2022",
+    "expires" : "4/16/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "3/11/2022",
+    "expires" : "3/11/2023"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "10/15/2022",
+    "expires" : "10/15/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "8/16/2023",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "8/1/2023",
+    "expires" : null
+  } ],
+  "Arielle Dunn" : [ {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "3/16/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "9/11/2023",
+    "expires" : "9/10/2024"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "4/2/2022",
+    "expires" : "4/2/2023"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "1/9/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "2/13/2022",
+    "expires" : null
+  } ],
+  "Fernando Marks" : [ {
+    "name" : "Medical Records",
+    "timestamp" : "12/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "8/18/2022",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "1/14/2022",
+    "expires" : "1/14/2023"
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "3/23/2023",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "9/30/2022",
+    "expires" : null
+  } ],
+  "Frank Zuniga" : [ {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "7/25/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "3/29/2022",
+    "expires" : "3/29/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "2/5/2022",
+    "expires" : null
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "2/5/2023",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "8/30/2022",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "12/6/2022",
+    "expires" : null
+  } ],
+  "Alexandra Schneider" : [ {
+    "name" : "OHS Training",
+    "timestamp" : "3/27/2022",
+    "expires" : "3/27/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "1/14/2023",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "12/13/2021",
+    "expires" : "12/13/2022"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "12/3/2022",
+    "expires" : null
+  } ],
+  "Jadyn Cuevas" : [ {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "8/26/2023",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "7/14/2022",
+    "expires" : "7/14/2023"
+  } ],
+  "Jamie Gay" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "12/2/2022",
+    "expires" : "12/2/2023"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "8/9/2022",
+    "expires" : "8/9/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "5/22/2022",
+    "expires" : null
+  } ],
+  "Teagan French" : [ {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "10/29/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "5/13/2023",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "10/4/2022",
+    "expires" : null
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "3/9/2023",
+    "expires" : "3/8/2024"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "12/15/2021",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "8/21/2022",
+    "expires" : "8/21/2023"
+  } ],
+  "Skyla Lang" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "1/20/2022",
+    "expires" : null
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "12/27/2021",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "1/23/2022",
+    "expires" : "1/23/2023"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "9/30/2023",
+    "expires" : "9/29/2024"
+  } ],
+  "Mckenna Sanders" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "3/26/2023",
+    "expires" : "3/25/2024"
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "2/4/2023",
+    "expires" : "2/4/2024"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "6/6/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "11/29/2022",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "4/27/2022",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "6/20/2022",
+    "expires" : "6/20/2023"
+  } ],
+  "Jaden Wolfe" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "1/29/2022",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "7/13/2022",
+    "expires" : null
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "7/25/2022",
+    "expires" : "7/25/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "12/23/2022",
+    "expires" : "12/23/2023"
+  }, {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "4/4/2023",
+    "expires" : null
+  }, {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "9/19/2022",
+    "expires" : "9/19/2023"
+  } ],
+  "Cody Day" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "5/24/2023",
+    "expires" : "5/23/2024"
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "8/23/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "3/3/2023",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "7/16/2022",
+    "expires" : "7/16/2023"
+  } ],
+  "Aubree Gutierrez" : [ {
+    "name" : "Animal Care And Use Risk Assessment",
+    "timestamp" : "8/18/2022",
+    "expires" : "8/18/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "11/14/2022",
+    "expires" : null
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "5/14/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "6/1/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "10/20/2022",
+    "expires" : null
+  } ],
+  "Jaida Faulkner" : [ {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "11/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "2/26/2022",
+    "expires" : null
+  }, {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "4/9/2022",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "1/23/2022",
+    "expires" : "1/23/2023"
+  }, {
+    "name" : "IRB Quiz",
+    "timestamp" : "2/23/2022",
+    "expires" : null
+  } ],
+  "Derek Wells" : [ {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "6/14/2022",
+    "expires" : "6/14/2023"
+  }, {
+    "name" : "OHS Training",
+    "timestamp" : "4/24/2023",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "1/6/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "6/5/2023",
+    "expires" : null
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "7/2/2023",
+    "expires" : null
+  } ],
+  "Norah Villegas" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "2/25/2023",
+    "expires" : "2/25/2024"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "4/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "1/9/2022",
+    "expires" : "1/9/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "7/9/2022",
+    "expires" : null
+  }, {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "7/3/2023",
+    "expires" : null
+  } ],
+  "Melody Mosley" : [ {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "1/6/2022",
+    "expires" : "1/6/2023"
+  } ],
+  "Bailey Barrera" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "5/23/2022",
+    "expires" : "5/23/2023"
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "7/27/2023",
+    "expires" : "7/26/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "12/2/2022",
+    "expires" : "12/2/2023"
+  } ],
+  "Maritza Cervantes" : [ {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "3/21/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "12/31/2021",
+    "expires" : "12/31/2022"
+  } ],
+  "Angel Hill" : [ {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "7/25/2022",
+    "expires" : "7/25/2023"
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "2/26/2022",
+    "expires" : null
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "4/28/2023",
+    "expires" : "4/27/2024"
+  }, {
+    "name" : "DOT Hazard Material Awareness",
+    "timestamp" : "7/2/2022",
+    "expires" : "7/2/2023"
+  } ],
+  "Livia Burch" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "12/1/2022",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "4/14/2022",
+    "expires" : "4/14/2023"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "10/13/2023",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "12/22/2022",
+    "expires" : "12/22/2023"
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "3/1/2023",
+    "expires" : "2/29/2024"
+  }, {
+    "name" : "Electrical Safety for Labs",
+    "timestamp" : "7/26/2022",
+    "expires" : "7/26/2023"
+  } ],
+  "Geovanni Hess" : [ {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "12/28/2022",
+    "expires" : "12/28/2023"
+  }, {
+    "name" : "Medical Records",
+    "timestamp" : "12/4/2022",
+    "expires" : "12/4/2023"
+  }, {
+    "name" : "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "timestamp" : "4/22/2022",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "8/21/2023",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "3/18/2023",
+    "expires" : null
+  }, {
+    "name" : "Basic Training Program for Animal Users",
+    "timestamp" : "2/25/2022",
+    "expires" : "2/25/2023"
+  } ],
+  "Lucas Fowler" : [ {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "12/22/2022",
+    "expires" : null
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "1/16/2022",
+    "expires" : "1/16/2023"
+  } ],
+  "Gage Spence" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "2/22/2023",
+    "expires" : null
+  }, {
+    "name" : "Occupational Exposure to Bloodborne Pathogens",
+    "timestamp" : "3/4/2022",
+    "expires" : "3/4/2023"
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "3/23/2023",
+    "expires" : "3/22/2024"
+  } ],
+  "Harper Peterson" : [ {
+    "name" : "Awareness Training for the Transport of Hazardous Material",
+    "timestamp" : "3/10/2022",
+    "expires" : "3/10/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "3/4/2022",
+    "expires" : null
+  } ],
+  "Dakota Pierce" : [ {
+    "name" : "NIH Guidelines Overview",
+    "timestamp" : "10/17/2023",
+    "expires" : null
+  }, {
+    "name" : "Radiation Safety Annual Refresher",
+    "timestamp" : "7/14/2022",
+    "expires" : null
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "7/11/2023",
+    "expires" : null
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "8/18/2022",
+    "expires" : "8/18/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "9/15/2022",
+    "expires" : "9/15/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "6/16/2022",
+    "expires" : "6/16/2023"
+  } ],
+  "Marcus Tanner" : [ {
+    "name" : "Chemical Waste Requirements",
+    "timestamp" : "3/13/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "6/14/2022",
+    "expires" : "6/14/2023"
+  } ],
+  "Angela Collier" : [ {
+    "name" : "Using Hazardous Chemicals in an Animal Care Facility",
+    "timestamp" : "5/12/2022",
+    "expires" : null
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "9/27/2022",
+    "expires" : null
+  }, {
+    "name" : "Transportation of Infectious Substances, Category B",
+    "timestamp" : "5/18/2022",
+    "expires" : "5/18/2023"
+  }, {
+    "name" : "Physical Science Responsible Conduct of Research Course 1.",
+    "timestamp" : "3/13/2023",
+    "expires" : "3/12/2024"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "7/16/2023",
+    "expires" : null
+  } ],
+  "Tamara Livingston" : [ {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "4/26/2022",
+    "expires" : "4/26/2023"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "7/23/2022",
+    "expires" : "7/23/2023"
+  }, {
+    "name" : "X-Ray Safety",
+    "timestamp" : "12/13/2021",
+    "expires" : null
+  }, {
+    "name" : "Laboratory Safety Training",
+    "timestamp" : "10/6/2022",
+    "expires" : "10/6/2023"
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "3/8/2023",
+    "expires" : "3/7/2024"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "12/13/2022",
+    "expires" : null
+  } ],
+  "Julianna York" : [ {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "5/14/2023",
+    "expires" : "5/13/2024"
+  }, {
+    "name" : "Working in Cold Temperatures",
+    "timestamp" : "10/30/2023",
+    "expires" : null
+  }, {
+    "name" : "Understanding Biosafety",
+    "timestamp" : "2/19/2023",
+    "expires" : "2/19/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "7/15/2022",
+    "expires" : null
+  }, {
+    "name" : "Retraining in working with the IACUC",
+    "timestamp" : "5/5/2022",
+    "expires" : "5/5/2023"
+  }, {
+    "name" : "Radioactive Materials Safety Training",
+    "timestamp" : "2/12/2022",
+    "expires" : "2/12/2023"
+  } ],
+  "Gretchen Boyer" : [ {
+    "name" : "IRB Quiz",
+    "timestamp" : "9/15/2023",
+    "expires" : null
+  }, {
+    "name" : "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "timestamp" : "8/10/2022",
+    "expires" : "8/10/2023"
+  }, {
+    "name" : "Health Screening Questionnaire",
+    "timestamp" : "1/8/2023",
+    "expires" : "1/8/2024"
+  }, {
+    "name" : "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "timestamp" : "8/1/2023",
+    "expires" : null
+  } ]
+}
